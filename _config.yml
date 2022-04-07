@@ -2,8 +2,8 @@
 title: marloeuyjr.dba
 email: marloeuyjr+dba@gmail.com
 description: Attempt to write about databases and tech(maybe) # Writer Theme is a responsive template
-baseurl: "http://marloeuyjr.github.com" # the subpath of your site, e.g. /blog
-url: "/blog" # the base hostname & protocol for your site
+url: "http://marloeuyjr.github.com" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
