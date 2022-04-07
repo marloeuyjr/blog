@@ -1,9 +1,7 @@
 # Site settings
 title: marloeuyjr.dba
 email: marloeuyjr+dba@gmail.com
-description: > # Writer Theme is a responsive template
- focussed on typography, minimal design and
-  quality photography built using the Jekyll platform.
+description: Attempt to write about databases and tech(maybe) # Writer Theme is a responsive template
 baseurl: "http://marloeuyjr.github.com" # the subpath of your site, e.g. /blog
 url: "/blog" # the base hostname & protocol for your site
 enable_retina: false
