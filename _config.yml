@@ -1,5 +1,5 @@
 # Site settings
-title: Tutorials and Rants || marloeuy || DBA
+title: Tutorials and Rants | DBA
 email: email@marloeuy.pro
 description: Attempt to write about databases and tech(maybe) # Writer Theme is a responsive template
 url: "http://marloeuyjr.github.com" # the subpath of your site, e.g. /blog
@@ -9,11 +9,11 @@ nav_list:
   Home : ['Home', '/', 'fa-home']
   About : ['About', '/about', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
-  Author : ['Author', '/author/michelle', 'fa-user']
+  Author : ['Author', '/author/marloe', 'fa-user']
 single_footer: '<p>Databases and other techs. MarloeUy.Pro &copy; 2022 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
-    Writer: ['Writer 2016', '/about']
+    Writer: ['marloeuy.pro 2022', '/about']
 
 
 # Build settings
