@@ -6,7 +6,7 @@ url: "http://marloeuyjr.github.com" # the subpath of your site, e.g. /blog
 enable_retina: false
 permalink: :title
 nav_list:
-  Home : ['Home', '/', 'fa-home']
+  Home : ['Home', '/', 'fa-database']
   About : ['About', '/about', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
   Author : ['Author', '/author/marloe', 'fa-user']
